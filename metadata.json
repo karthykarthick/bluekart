@@ -1,0 +1,6 @@
+{
+  "name": "BlueCart Retail Store",
+  "description": "Clean and modern blue-themed retail store with Stripe checkout, Supabase integration, user and admin auth, product and category management, delivery tracking, and revenue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
